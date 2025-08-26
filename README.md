@@ -2,22 +2,21 @@
 
 I’m David — an **entrepreneur, software engineer, and product person** based in Nairobi.  
 
-- 💡 Co-Founder & CTO of **[Wazi](https://wazi.co)** — pioneering digital mental health for Africa.  
-- 🤖 Co-Founder of **[GrantAI](https://grantai.co)** — an AI tool helping organizations complete grant applications.  
-- 🔭 I’m currently working on **e-mobility platforms at [Zembo](https://zem.bo)** 
-- 🌱 I’m currently learning more about **IoT integrations, and real-time AI applications**.  
-- 👯 I’m looking to collaborate on **Laravel & related tech, data-for-good projects, and sustainable tech solutions**.  
-- 💬 Ask me about **startups, software & systems architecture, product strategy, and scaling tech teams**.  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/davidhenia)** • [Website](https://www.davidhenia.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m a huge **sci-fi & fantasy fan** (books, movies, comics) — and currently researching calm, friendly big dogs (thinking of a Cane Corso named *...* 🐕).  - ⚡ 
- 
+- 💡 Co-Founder & CTO of [Wazi](https://wazi.co) — pioneering digital mental health for Africa.  
+- 🤖 Co-Founder of [GrantAI](https://grantai.co) — helping organizations streamline grant applications with AI.  
+- 🔭 Currently leading software & data platforms at [Zembo](https://zem.bo), building e-mobility and clean energy infrastructure in Africa.  
+- 🌱 Learning more about **IoT integrations, scalable data systems, and real-time AI applications.**  
+- 🤝 Open to collaborating on **product, software & systems, data-for-good initiatives, and sustainable tech solutions.**  
+- 💬 Ask me about **startups, product strategy, software & systems architecture, and scaling tech teams.**  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/davidhenia) • [Website](https://davidhenia.com) • [GitHub](https://github.com/davidhenia)  
+- ⚡ Fun fact: I’m a big **sci-fi & fantasy fan** (books, movies, comics) — and currently researching calm, friendly big dogs (thinking of a Cane Corso named *Roman* 🐕).  
+
 
 ---
 
 ## 🤝 Working with Me  
 
-Wrote below to help communicate how I like to work in any new workplace.
+Wrote below to help communicate how I like to work.
 
 ### Communication Styles  
 
