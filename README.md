@@ -9,7 +9,7 @@ I’m David — an **entrepreneur, software engineer, and product person** based
 - 🤝 Open to collaborating on **product, software & systems, data-for-good initiatives, and sustainable tech solutions.**  
 - 💬 Ask me about **startups, product strategy, software & systems architecture, and scaling tech teams.**  
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/davidhenia) • [Website](https://davidhenia.com) • [GitHub](https://github.com/davidhenia)  
-- ⚡ Fun fact: I’m a big **sci-fi & fantasy fan** (books, movies, comics) — and currently researching calm, friendly big dogs (thinking of a Cane Corso named *Roman* 🐕).  
+- ⚡ Fun fact: I’m a big **sci-fi & fantasy fan** (books, movies, comics) — and currently researching calm, friendly big dogs (thinking of adopting a Cane Corso 🐕).  
 
 
 ---
